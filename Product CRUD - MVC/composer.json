@@ -1,0 +1,10 @@
+{
+    "name": "eniola/good",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}

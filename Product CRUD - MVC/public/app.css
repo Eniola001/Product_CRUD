@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+}
+
+.product_image {
+  width: 60px;
+  height: auto;
+}
+
+.update-image {
+  width: 120px;
+  height: auto;
+}
